@@ -112,7 +112,6 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-# Also print a concise summary for the user
 summary = {
     "R_ohm": R,
     "L_H": L,
